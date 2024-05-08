@@ -1,0 +1,34 @@
+body{
+  background-image: url("https://images.unsplash.com/photo-1628935687655-8530bb7211bc?q=80&w=1422&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+.calculator {
+  background-color: #2a0c0c;
+  border: 2px solid #2b1818;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  display: inline-block;
+}
+
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.buttons button {
+  width: 70px;
+  height: 70px;
+  margin: 5px;
+  font-size: 20px;
+}
+.numbers{
+  background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: inline-block;
+}
